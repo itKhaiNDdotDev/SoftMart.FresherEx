@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SoftMart.Ex.Basic/1.0.0": {
+        "runtime": {
+          "SoftMart.Ex.Basic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SoftMart.Ex.Basic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
